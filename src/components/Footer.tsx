@@ -82,7 +82,7 @@ export default function Footer() {
               TikTok
             </a>
             <a
-              href="https://web.facebook.com/profile.php?id=61584373547792"
+              href="https://web.facebook.com/people/Rison-Graphics/61588103634831/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-[#A855F7] transition-colors text-sm font-medium"

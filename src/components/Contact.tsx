@@ -148,7 +148,7 @@ export default function Contact() {
                 <span className="text-sm font-medium">Facebook</span>
               </a>
               <a
-                href="https://www.linkedin.com/in/aron-rison-852413399/"
+                href="https://www.linkedin.com/in/risongraphics/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-3 rounded-full bg-[#1a1a1a] border border-gray-700 hover:border-[#A855F7] text-gray-300 hover:text-[#A855F7] transition-all duration-300 hover:scale-105"
