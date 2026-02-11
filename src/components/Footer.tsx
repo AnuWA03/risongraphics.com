@@ -104,7 +104,7 @@ export default function Footer() {
               Twitter
             </a>
             <a
-              href="https://www.linkedin.com/in/aron-rison-852413399/"
+              href="www.linkedin.com/in/risongraphics"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-[#A855F7] transition-colors text-sm font-medium"
